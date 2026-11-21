@@ -49,10 +49,10 @@ The program displays captured packets with:
 ## 8. Screenshots
 
 ### ICMP Packet Capture
-![ICMP Capture](screenshots/icmp-capture.png)
+![ICMP Capture](icmp-capture.png)
 
 ### UDP Packet Capture
-![UDP Capture](screenshots/udp-capture.png)
+![UDP Capture](udp-capture.png)
 
 ## 9. Conclusion
 This project provides practical knowledge of network packet capturing, protocol analysis and network communication using Python and Scapy.
