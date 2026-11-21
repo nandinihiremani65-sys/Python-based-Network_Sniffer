@@ -54,6 +54,9 @@ The program displays captured packets with:
 ### UDP Packet Capture
 ![UDP Capture](udp-capture.png)
 
+### TCP Packet Capture
+![TCP Capture](tcp-capture.png)
+
 ## 9. Conclusion
 This project provides practical knowledge of network packet capturing, protocol analysis and network communication using Python and Scapy.
 
