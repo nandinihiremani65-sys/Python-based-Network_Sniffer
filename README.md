@@ -46,9 +46,13 @@ The program displays captured packets with:
 - Protocol
 - Packet size
 - Source and destination ports (where applicable)
-
 ## 8. Screenshots
-Screenshots of packet capturing and analysis are available in the `screenshots` folder.
+
+### ICMP Packet Capture
+![ICMP Capture](screenshots/icmp-capture.png)
+
+### UDP Packet Capture
+![UDP Capture](screenshots/udp-capture.png)
 
 ## 9. Conclusion
 This project provides practical knowledge of network packet capturing, protocol analysis and network communication using Python and Scapy.
